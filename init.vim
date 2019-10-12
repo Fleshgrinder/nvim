@@ -111,6 +111,7 @@ let mapleader="\<SPACE>"
 
 " UI Options {
     " Colorscheme options.
+    set termguicolors
     set background=dark
     colorscheme NeoSolarized
 
